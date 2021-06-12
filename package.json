@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-outline-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samrobbins85/tailwind-outline-plugin.git"
+  },
+  "author": "Sam Robbins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samrobbins85/tailwind-outline-plugin/issues"
+  },
+  "homepage": "https://github.com/samrobbins85/tailwind-outline-plugin#readme",
+  "dependencies": {
+    "tailwindcss": "^2.1.4"
+  }
+}
