@@ -1,17 +1,14 @@
 {
   "name": "tailwind-outline-plugin",
-  "version": "2.0.0",
-  "description": "",
+  "version": "2.0.1",
+  "description": "A Tailwind CSS Plugin for better outline utilities",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/samrobbins85/tailwind-outline-plugin.git"
   },
   "author": "Sam Robbins",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/samrobbins85/tailwind-outline-plugin/issues"
   },
