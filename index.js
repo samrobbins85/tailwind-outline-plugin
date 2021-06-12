@@ -34,7 +34,7 @@ const outlinePlugin = plugin(
       };
     });
     const utilities = [...width, ...style, ...color, ...offset];
-    addUtilities(utilities, variants("outline"));
+    addUtilities(utilities, variants("outlinePlugin"));
   },
   {
     theme: {
@@ -47,7 +47,7 @@ const outlinePlugin = plugin(
       },
     },
     variants: {
-      outline: ["hover", "active", "responsive"],
+      outlinePlugin: ["hover", "active", "responsive"],
     },
   }
 );
